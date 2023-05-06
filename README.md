@@ -1,4 +1,4 @@
-# Functions Lab
+# Functions Lab c
 
 ## Learning Goals
 
